@@ -3,7 +3,7 @@
 
 ---
 
-转换出来的结果使用与antd的TreeSelect、Cascader组件
+转换出来的结果适用于antd的TreeSelect、Cascader组件
 
 ---
 
